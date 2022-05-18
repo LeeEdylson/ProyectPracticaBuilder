@@ -1,0 +1,14 @@
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\obj\Debug\netcoreapp3.1\BuilderPatterns.csproj.AssemblyReference.cache
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\obj\Debug\netcoreapp3.1\BuilderPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\obj\Debug\netcoreapp3.1\BuilderPatterns.AssemblyInfoInputs.cache
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\obj\Debug\netcoreapp3.1\BuilderPatterns.AssemblyInfo.cs
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\obj\Debug\netcoreapp3.1\BuilderPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\bin\Debug\netcoreapp3.1\BuilderPatterns.exe
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\bin\Debug\netcoreapp3.1\BuilderPatterns.deps.json
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\bin\Debug\netcoreapp3.1\BuilderPatterns.runtimeconfig.json
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\bin\Debug\netcoreapp3.1\BuilderPatterns.runtimeconfig.dev.json
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\bin\Debug\netcoreapp3.1\BuilderPatterns.dll
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\bin\Debug\netcoreapp3.1\BuilderPatterns.pdb
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\obj\Debug\netcoreapp3.1\BuilderPatterns.dll
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\obj\Debug\netcoreapp3.1\BuilderPatterns.pdb
+C:\Users\Angel Rivero\source\repos\BuilderPatterns\obj\Debug\netcoreapp3.1\BuilderPatterns.genruntimeconfig.cache
